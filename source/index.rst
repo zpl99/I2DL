@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-深度学习导论 课程主页
-================================
+图像模式识别（神经网络与深度学习） 课程主页
+==========================================================
 **授课教师**：北京师范大学 地理科学学部 `唐宏 <http://geot.bnu.edu.cn/Public/htm/news/5/182.html>`_ 教授
 
 .. image:: outline.jpg
