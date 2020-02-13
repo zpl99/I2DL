@@ -5,31 +5,34 @@
 
 图像模式识别（神经网络与深度学习） 课程主页
 ==========================================================
-**授课教师**：北京师范大学 地理科学学部 `唐宏 <http://geot.bnu.edu.cn/Public/htm/news/5/182.html>`_ 教授
 
-.. image:: outline.jpg
 
 .. toctree::
    :maxdepth: 2
-   :caption: 第一部分:神经网络基础
    
-   1stPart/算法原理/index
-   1stPart/探索示例/index
-
-
-第二部分:迈向深度学习
--------------------------------
-（待补充）
-
-.. toctree::
-   :maxdepth: 2
-   :caption: 第二部分:迈向深度学习
-   
-   
+   课程简介/课程简介.ipynb
    
 .. toctree::
    :maxdepth: 2
-   :caption: 部分学生作业展示
    
-   students_works/index
+   公式推导/index
+   
+.. toctree::
+   :maxdepth: 2
+   
+   示例代码/index
+   
+.. toctree::
+   :maxdepth: 1
+   
+   课后作业/index
+
+.. toctree::
+   :maxdepth: 2
+   
+   学生汇报/index
+
+
+
+
 
